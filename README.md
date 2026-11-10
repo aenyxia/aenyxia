@@ -49,7 +49,7 @@
 
 <!-- CATEGORY 2: TOOLS & ENVIRONMENT -->
 <p><b>🍒 Tools & Workflow</b></p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,python,vite,vercel&theme=light" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,python,vercel&theme=light" />
 
 </div>
 
