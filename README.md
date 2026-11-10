@@ -1,20 +1,28 @@
 <div align="center">
 
-🍒 𓂃 ࣪˖ AENYXIA'S LITTLE WORLD ˖ ࣪𓂃 🍒
+<!-- 🍒 CHERRY COQUETTE PROFILE 🍒 -->
 
-♡₊˚ 🎀・₊✧・🍓・✧₊・🎀 ˚₊♡
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8F1835,45:C62845,100:F7C6D0&height=230&section=header&text=Welcome%20to%20Aenyxia's%20World&fontSize=32&fontColor=FFF9F5&fontAlignY=38&desc=୨୧%20sweet%20dreams%20%26%20little%20bits%20of%20code%20୨୧&descAlignY=60&descSize=14" />
 
-welcome to my little corner of the internet!
+<br/>
 
-ੈ♡⸝⸝ a girl with dreams, creativity & a little love for coding ⸝⸝♡ੈ
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=23&duration=3000&pause=1000&color=C62845&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Aenyxia+%F0%9F%8D%92;A+little+dreamer+who+loves+coding+%F0%9F%8E%80;Learning+and+growing+every+day+%E2%9C%A8;Turning+little+ideas+into+magic+%F0%9F%92%97" />
 
-♡ ─────────────── ⋆｡°✩°｡⋆ ─────────────── ♡
+<br/><br/>
 
-🎀 STUDENT DEVELOPER 🍒 DREAMER 🌷 FOREVER LEARNING
+<img src="https://img.shields.io/badge/Cherry%20Girl-8F1835?style=for-the-badge&labelColor=FFF0F2&color=8F1835" />
+<img src="https://img.shields.io/badge/Dreaming%20In%20Code-F7C6D0?style=for-the-badge&labelColor=FFF9F5&color=E88FA3" />
+<img src="https://img.shields.io/badge/Forever%20Learning-C62845?style=for-the-badge&labelColor=FFF0F2&color=C62845" />
+
+<br/><br/>
+
+♡ ─── ⋆｡˚ 🍒 ˚｡⋆ ─── ♡
+
+welcome to my little corner of the internet
 
 </div>
 
-🍓 ୨୧ About Me
+🍓 ୨୧ A little about me
 yaml
 name: Aenyxia
 username: aenyxia
@@ -22,101 +30,92 @@ role: Student Developer
 location: Philippines
 currently_learning: Web Development
 
-loves:
+interests:
   - Programming
   - UI/UX Design
   - Creative Projects
   - Technology
-  - Pretty Things
+  - Making pretty things
 
-dream: To create beautiful things through code ♡
+dream: To become a developer who creates beautiful things!
 
-
-୨୧ Hello! I'm Aenyxia, welcome to my little coding diary!
-
-🍒 A student exploring the world of technology.
-🎀 I love learning, creating and experimenting.
-💌 Interested in web development and creative design.
-🌷 Growing my skills one day at a time.
-✨ Dreaming big and starting small.
-🎀 ୨୧ My Little Tech Collection
+🍒 Hello! I'm Aenyxia, welcome to my little coding diary.
+🎀 A student exploring the wonderful world of programming.
+💻 I love creating, designing, and learning new things.
+🌷 Currently growing my skills one line of code at a time.
+✨ A little creativity can make something magical!
+🎀 ୨୧ My little tech collection
 
 <div align="center">
 
-♡ LANGUAGES ♡
+🍓 Languages
 
-HTML　CSS　JavaScript　Python　Java
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java&theme=light" />
 
-♡ TOOLS & TECHNOLOGIES ♡
+🍒 Tools & Technologies
 
-Git　GitHub　VS Code　Figma　React　Node.js
-
-still learning and collecting new skills!
-
-</div>
-
-🍰 ୨୧ Things I Love
-
-<div align="center">
-
-🍒 Cherry aesthetics
-
-🎀 Pink ribbons and pretty things
-
-🌷 Creative ideas
-
-💻 Coding and designing
-
-🧸 Cozy little projects
-
-♡ Making my dreams come true ♡
-
-</div>
-
-💌 ୨୧ Find Me Here
-
-<div align="center">
-
-<a href="https://github.com/aenyxia">♡ Visit my GitHub Profile ♡</a>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,react,nodejs&theme=light" />
 
 <br/>
 
-<a href="https://github.com/aenyxia?tab=repositories">🍓 Explore my repositories 🍓</a>
+learning, creating, and collecting new skills ♡
+
+</div>
+
+💌 ୨୧ Let's be friends!
+
+<div align="center">
+
+<a href="https://github.com/aenyxia">
+<img src="https://img.shields.io/badge/GitHub-Visit%20My%20Profile-8F1835?style=for-the-badge&logo=github&logoColor=FFF9F5" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/aenyxia?tab=repositories">
+<img src="https://img.shields.io/badge/My%20Projects-Explore%20Here-C62845?style=for-the-badge&logo=github&logoColor=FFF9F5" />
+</a>
+
+<br/><br/>
+
+♡ always happy to connect with fellow dreamers ♡
+
+</div>
+
+📊 ୨୧ My GitHub garden
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-stats.vercel.app/api?username=aenyxia&show_icons=true&hide_border=true&bg_color=FFF9F5&title_color=C62845&icon_color=E88FA3&text_color=8F1835&ring_color=C62845" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aenyxia&layout=compact&hide_border=true&bg_color=FFF9F5&title_color=C62845&text_color=8F1835" />
+
+<br/><br/>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=aenyxia&hide_border=true&background=FFF9F5&ring=C62845&fire=E88FA3&currStreakLabel=C62845&sideLabels=8F1835&currStreakNum=C62845&sideNums=8F1835&dates=E88FA3" />
+
+</div>
+
+🍰 ୨୧ A sweet little reminder
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFF0F2&height=3" />
 
 <br/>
-
-<a href="https://github.com/aenyxia?tab=stars">🎀 Things I love and star 🎀</a>
-
-</div>
-
-🍒 ୨୧ My GitHub Garden
-
-<div align="center">
-
-♡ Every little project is a new beginning. ♡
-
-My repositories are little pieces of my creativity.
-
-<a href="https://github.com/aenyxia?tab=repositories">୨୧ Come explore my projects ୨୧</a>
-
-</div>
-
-🌸 ୨୧ A Little Reminder
-
-<div align="center">
 
 “Bloom at your own pace, little cherry.” 🍒
 
-You don't have to know everything to begin.
-
 You don't have to be perfect to create something beautiful.
 
-Keep dreaming, keep learning, and keep blooming.
+Keep dreaming, keep coding, and keep blooming. ♡
 
-♡₊˚ 🎀・₊✧・🍓・✧₊・🎀 ˚₊♡
+<br/>
 
-THANK YOU FOR VISITING MY LITTLE WORLD!
+୨୧ ─────── 🍓 ─────── ୨୧
 
-with love, Aenyxia ♡
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F7C6D0,50:C62845,100:8F1835&height=120&section=footer" />
 
 </div>
