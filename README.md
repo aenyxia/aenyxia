@@ -29,11 +29,7 @@
   <tr>
     <td width="55%">
       <h3>୨୧ Hello, world! I'm AENYXIA 🍒</h3>
-      <p>Welcome to my corner of GitHub! I am a passionate developer focused on creating aesthetic, functional, and user-friendly web experiences.</p>
-      <ul>
-        <li>🌱 Currently perfecting my <b>Frontend & UI/UX Design</b> skills</li>
-        <li>🎀 Passionate about design systems, cute micro-interactions, and web graphics</li></li>
-      </ul>
+      <p>🎀 Welcome to my corner of GitHub! I am a passionate developer focused on creating aesthetic, functional, and user-friendly web experiences. 🎀</p>
     </td>
    
   </tr>
