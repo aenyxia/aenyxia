@@ -1,102 +1,121 @@
-
-<!-- 🌸 AESTHETIC GITHUB PROFILE 🌸 -->
-
 <div align="center">
 
-<!-- CUSTOM BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E7,45:E6D5FF,100:CDEBFF&height=220&section=header&text=Welcome%20to%20my%20Profile!&fontSize=35&fontColor=765A82&fontAlignY=38&desc=୨୧%20A%20little%20corner%20of%20my%20coding%20world%20୨୧&descAlignY=58&descSize=15" />
+<!-- 🍒 CHERRY COQUETTE PROFILE 🍒 -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8F1835,45:C62845,100:F7C6D0&height=230&section=header&text=Welcome%20to%20Aenyxia's%20World&fontSize=32&fontColor=FFF9F5&fontAlignY=38&desc=୨୧%20sweet%20dreams%20%26%20little%20bits%20of%20code%20୨୧&descAlignY=60&descSize=14" />
 
 <br/>
 
-<!-- ANIMATED TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=23&duration=3000&pause=1000&color=D98BB8&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+YOUR_NAME+%F0%9F%8C%B7;Student+Developer+%F0%9F%92%BB;Learning+something+new+every+day+%E2%9C%A8;Turning+ideas+into+code+%F0%9F%92%97" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=23&duration=3000&pause=1000&color=C62845&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Aenyxia+%F0%9F%8D%92;A+little+dreamer+who+loves+coding+%F0%9F%8E%80;Learning+and+growing+every+day+%E2%9C%A8;Turning+little+ideas+into+magic+%F0%9F%92%97" />
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/Student%20Developer-FFD6E7?style=for-the-badge&labelColor=F8E8F0&color=FFD6E7" />
-<img src="https://img.shields.io/badge/Learning%20Every%20Day-E6D5FF?style=for-the-badge&labelColor=F8E8F0&color=E6D5FF" />
+<img src="https://img.shields.io/badge/Cherry%20Girl-8F1835?style=for-the-badge&labelColor=FFF0F2&color=8F1835" />
+<img src="https://img.shields.io/badge/Dreaming%20In%20Code-F7C6D0?style=for-the-badge&labelColor=FFF9F5&color=E88FA3" />
+<img src="https://img.shields.io/badge/Forever%20Learning-C62845?style=for-the-badge&labelColor=FFF0F2&color=C62845" />
+
+<br/><br/>
+
+♡ ─── ⋆｡˚ 🍒 ˚｡⋆ ─── ♡
+
+welcome to my little corner of the internet
 
 </div>
 
----
-
-## 🌷 About Me
-
-```yaml
-name: YOUR_NAME
+🍓 ୨୧ A little about me
+yaml
+name: Aenyxia
+username: aenyxia
 role: Student Developer
-location: YOUR_LOCATION
+location: Philippines
 currently_learning: Web Development
+
 interests:
   - Programming
   - UI/UX Design
   - Creative Projects
   - Technology
-goal: Become a better developer every day!
-```
+  - Making pretty things
 
-- 🌸 Hello! Welcome to my little coding space.
-- 💻 I'm a student passionate about technology.
-- 🎀 I enjoy learning programming and creating projects.
-- 🌱 Currently improving my development skills.
-- ✨ Always curious, always learning!
+dream: To become a developer who creates beautiful things!
 
----
-
-## 🎀 My Tech Stack
+🍒 Hello! I'm Aenyxia, welcome to my little coding diary.
+🎀 A student exploring the wonderful world of programming.
+💻 I love creating, designing, and learning new things.
+🌷 Currently growing my skills one line of code at a time.
+✨ A little creativity can make something magical!
+🎀 ୨୧ My little tech collection
 
 <div align="center">
 
-### Languages
+🍓 Languages
+
 <img src="https://skillicons.dev/icons?i=html,css,js,python,java&theme=light" />
 
-### Tools & Technologies
+🍒 Tools & Technologies
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,react,nodejs&theme=light" />
 
-</div>
+<br/>
 
----
-
-## 💗 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Visit%20Me-E6D5FF?style=for-the-badge&logo=github&logoColor=765A82" />
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-CDEBFF?style=for-the-badge&logo=linkedin&logoColor=397B9D" />
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-Say%20Hello-FFD6E7?style=for-the-badge&logo=gmail&logoColor=C45B88" />
-</a>
+learning, creating, and collecting new skills ♡
 
 </div>
 
----
-
-## 📊 My GitHub Statistics
+💌 ୨୧ Let's be friends!
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=FFF5FA&title_color=D98BB8&icon_color=C7A6E8&text_color=806D80" />
+<a href="https://github.com/aenyxia">
+<img src="https://img.shields.io/badge/GitHub-Visit%20My%20Profile-8F1835?style=for-the-badge&logo=github&logoColor=FFF9F5" />
+</a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=FFF5FA&title_color=D98BB8&text_color=806D80" />
+<br/><br/>
+
+<a href="https://github.com/aenyxia?tab=repositories">
+<img src="https://img.shields.io/badge/My%20Projects-Explore%20Here-C62845?style=for-the-badge&logo=github&logoColor=FFF9F5" />
+</a>
+
+<br/><br/>
+
+♡ always happy to connect with fellow dreamers ♡
 
 </div>
 
----
-
-## 🌼 A Little Reminder
+📊 ୨୧ My GitHub garden
 
 <div align="center">
 
-*“Every expert was once a beginner.”*
+<img width="95%" src="https://github-readme-stats.vercel.app/api?username=aenyxia&show_icons=true&hide_border=true&bg_color=FFF9F5&title_color=C62845&icon_color=E88FA3&text_color=8F1835&ring_color=C62845" />
 
-Keep learning. Keep creating. Keep growing. ♡
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E7,50:E6D5FF,100:CDEBFF&height=120&section=footer" />
+<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aenyxia&layout=compact&hide_border=true&bg_color=FFF9F5&title_color=C62845&text_color=8F1835" />
+
+<br/><br/>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=aenyxia&hide_border=true&background=FFF9F5&ring=C62845&fire=E88FA3&currStreakLabel=C62845&sideLabels=8F1835&currStreakNum=C62845&sideNums=8F1835&dates=E88FA3" />
+
+</div>
+
+🍰 ୨୧ A sweet little reminder
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFF0F2&height=3" />
+
+<br/>
+
+“Bloom at your own pace, little cherry.” 🍒
+
+You don't have to be perfect to create something beautiful.
+
+Keep dreaming, keep coding, and keep blooming. ♡
+
+<br/>
+
+୨୧ ─────── 🍓 ─────── ୨୧
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F7C6D0,50:C62845,100:8F1835&height=120&section=footer" />
 
 </div>
