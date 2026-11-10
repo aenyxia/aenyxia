@@ -28,7 +28,7 @@
 <table border="0">
   <tr>
     <td width="55%">
-      <h3>୨୧ Hello, world! I'm AENYXIA 🍒</h3>
+      <h3> Hello, world! I'm AENYXIA </h3>
       <p>🎀 Welcome to my corner of GitHub! I am a passionate developer focused on creating aesthetic, functional, and user-friendly web experiences. 🎀</p>
     </td>
    
