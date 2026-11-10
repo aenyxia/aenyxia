@@ -35,10 +35,7 @@
         <li>🎀 Passionate about design systems, cute micro-interactions, and web graphics</li></li>
       </ul>
     </td>
-    <td width="45%" align="center">
-      <!-- CARD CONTAINER -->
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=aenyxia&repo=Nyanhongo&theme=rose&bg_color=FFF0F3&title_color=FF2E93&text_color=590D22&icon_color=FF4D6D&hide_border=true" width="100%" />
-    </td>
+   
   </tr>
 </table>
 
@@ -64,9 +61,6 @@
 ## 📊 ─── Statistics ─── 🍒
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aenyxia&show_icons=true&hide_border=true&bg_color=FFF0F3&title_color=FF2E93&icon_color=FF4D6D&text_color=590D22" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aenyxia&layout=compact&hide_border=true&bg_color=FFF0F3&title_color=FF2E93&text_color=590D22" />
 
 <br/><br/>
 
