@@ -43,7 +43,7 @@
 
 <!-- CATEGORY 1: LANGUAGES & FRONTEND -->
 <p><b>🎀 Core & Web Technologies</b></p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,figma&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,php,figma&theme=light" />
 
 <br/><br/>
 
@@ -53,19 +53,6 @@
 
 </div>
 
-
-## 📊 ─── Statistics ─── 🍒
-
-<div align="center">
-
-<br/><br/>
-
-<!-- STREAK STATS -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aenyxia&stroke=FF8095&background=FFF0F3&ring=FF4D6D&fire=FF4D6D&currStreakNum=590D22&currStreakLabel=FF2E93&sideNums=590D22&sideLabels=590D22&dates=FF8095&hide_border=true" width="98%" />
-
-</div>
-
----
 
 ## 💌 ─── Let's Connect! ─── 🎀
 
