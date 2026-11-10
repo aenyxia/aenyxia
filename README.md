@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- ANIMATED CHERRY BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4D6D,50:FF8095,100:FFC2D1&height=220&section=header&text=🍒୨୧%20Welcome%20to%20my%20Sweet%20Code%20Space!%20୨୧🍒&fontSize=32&fontColor=FFFFFF&fontAlignY=38&desc=&descAlignY=58&descSize=14&descColor=FFF0F3" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4D6D,50:FF8095,100:FFC2D1&height=220&section=header&text=୨୧%20Welcome%20to%20my%20Sweet%20Code%20Space!%20୨୧&fontSize=32&fontColor=FFFFFF&fontAlignY=38&desc=&descAlignY=58&descSize=14&descColor=FFF0F3" />
 
 <br/>
 
