@@ -37,7 +37,7 @@
     </td>
     <td width="45%" align="center">
       <!-- CARD CONTAINER -->
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_FEATURED_REPO&theme=rose&bg_color=FFF0F3&title_color=FF2E93&text_color=590D22&icon_color=FF4D6D&hide_border=true" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=aenyxia&repo=YOUR_FEATURED_REPO&theme=rose&bg_color=FFF0F3&title_color=FF2E93&text_color=590D22&icon_color=FF4D6D&hide_border=true" width="100%" />
     </td>
   </tr>
 </table>
