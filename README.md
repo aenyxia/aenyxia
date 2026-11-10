@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Cherry%20Girl-8F1835?style=for-the-badge&labelColor=FFF0F2&color=8F1835" />
+<img src="https://img.shields.io/badge/Student%20Developer-8F1835?style=for-the-badge&labelColor=FFF0F2&color=8F1835" />
 <img src="https://img.shields.io/badge/Dreaming%20In%20Code-F7C6D0?style=for-the-badge&labelColor=FFF9F5&color=E88FA3" />
 <img src="https://img.shields.io/badge/Forever%20Learning-C62845?style=for-the-badge&labelColor=FFF0F2&color=C62845" />
 
