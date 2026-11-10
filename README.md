@@ -2,7 +2,8 @@
 
 <!-- 🍒 CHERRY COQUETTE PROFILE 🍒 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8F1835,45:C62845,100:F7C6D0&height=230&section=header&text=Welcome%20to%20Aenyxia's%20World&fontSize=32&fontColor=FFF9F5&fontAlignY=38&desc=୨୧%20sweet%20dreams%20%26%20little%20bits%20of%20code%20୨୧&descAlignY=60&descSize=14" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8F1835,50:C62845,100:F7C6D0&height=230&section=header&text=Aenyxia%27s%20World&fontSize=35&fontColor=FFF9F5&fontAlignY=40" />
+
 
 <br/>
 
