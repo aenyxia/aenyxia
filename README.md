@@ -85,40 +85,6 @@ learning, creating, and collecting new skills ♡
 
 📊 ୨୧ My GitHub garden
 
-<div align="center">
-
-<!-- GitHub Stats -->
-
-<img width="95%" src="https://github-stats-extended.vercel.app/api?username=aenyxia&show_icons=true&hide_border=true&bg_color=FFF9F5&title_color=C62845&icon_color=E88FA3&text_color=8F1835&ring_color=C62845" />
-
-<br/><br/>
-
-<!-- Top Languages -->
-
-<img width="95%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aenyxia&layout=compact&hide_border=true&bg_color=FFF9F5&title_color=C62845&text_color=8F1835" />
-
-<br/><br/>
-
-<!-- GitHub Streak -->
-
-<img width="95%" src="https://streak-stats.demolab.com?user=aenyxia&hide_border=true&background=FFF9F5&ring=C62845&fire=E88FA3&currStreakLabel=C62845&sideLabels=8F1835&currStreakNum=C62845&sideNums=8F1835&dates=E88FA3" />
-
-</div>
-<div align="center">
-
-<img width="95%" src="https://github-readme-stats.vercel.app/api?username=aenyxia&show_icons=true&hide_border=true&bg_color=FFF9F5&title_color=C62845&icon_color=E88FA3&text_color=8F1835&ring_color=C62845" />
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aenyxia&layout=compact&hide_border=true&bg_color=FFF9F5&title_color=C62845&text_color=8F1835" />
-
-<br/><br/>
-
-<img width="95%" src="https://streak-stats.demolab.com?user=aenyxia&hide_border=true&background=FFF9F5&ring=C62845&fire=E88FA3&currStreakLabel=C62845&sideLabels=8F1835&currStreakNum=C62845&sideNums=8F1835&dates=E88FA3" />
-
-</div>
-
-🍰 ୨୧ A sweet little reminder
 
 <div align="center">
 
