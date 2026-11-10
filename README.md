@@ -8,7 +8,7 @@
 <br/>
 
 <!-- ANIMATED TYPING SVGS -->
-<img src="https://readme-typing-svg.demolab.com?font=Fredoka+One&size=24&duration=3000&pause=1000&color=FF2E93&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+AENYXIA+%F0%9F%8D%92;UI%2FUX+%26+Frontend+Developer+%F0%9F%8E%80;Building+sweet+digital+experiences+%E2%9C%A8;Always+learning+%26+coding+with+love+%F0%9F%92%97" />
+<img src="https://readme-typing-svg.demolab.com?font=Fredoka+One&size=24&duration=3000&pause=1000&color=FF2E93&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+AENYXIA+%F0%9F%8D%92;Aspiring+Developer+%F0%9F%8E%80;Building+sweet+digital+experiences+%E2%9C%A8;Always+learning+%26+coding+with+love+%F0%9F%92%97" />
 
 <br/>
 
