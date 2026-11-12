@@ -13,7 +13,7 @@
 <br/>
 
 <!-- BADGES -->
-<img src="https://img.shields.io/badge/✨%20Whimsy%20Vibes-FF4D6D?style=for-the-badge&labelColor=FFF0F3&color=FF4D6D" />
+<img src="https://img.shields.io/badge/✨%20Cool%20Vibes-FF4D6D?style=for-the-badge&labelColor=FFF0F3&color=FF4D6D" />
 <img src="https://img.shields.io/badge/🎀%20Cozy%20Programmer-FF8095?style=for-the-badge&labelColor=FFF0F3&color=FF8095" />
 <img src="https://img.shields.io/badge/🍒%20Student%20Dev-FFC2D1?style=for-the-badge&labelColor=FFF0F3&color=FF758F" />
 
