@@ -67,7 +67,7 @@
 
 <br/><br/>
 
-🍒 *“Code with passion, design with love, and add a little ribbon to everything you build.”* 🎀
+🍒 *“Code with passion, design with love.”* 🎀
 
 <br/>
 
