@@ -1,4 +1,3 @@
-<!-- 🍒 CHERRY & RIBBONS AESTHETIC GITHUB PROFILE 🍒 -->
 
 <div align="center">
 
